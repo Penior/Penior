@@ -1,3 +1,4 @@
+![enter image description here](https://github.com/Penior/Penior/blob/main/PENIOR%20LOGO.jpg)
 # Information about me #
 * Development student : Penior
 * Age : 16 ( 2006. 12. 02 )
